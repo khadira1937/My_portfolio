@@ -203,7 +203,7 @@ const projects = [
   {
     name: "Weather and forecast website",
     description:
-      "This project highlights my expertise in building data-driven web applications using Python and Django.      ",
+      "This project highlights my expertise in ing data-driven web applications using Python and Django.      ",
     tags: [
       {
         name: "Django",
