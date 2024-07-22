@@ -137,14 +137,16 @@ const experiences = [
     ],
   },
   {
-    title: "Absence Managment",
-    company_name: "ISTA Nado",
+    title: "Full Stack Developer (Internship) ",
+    company_name: "ISTA Nador",
     icon: ofppt,
     iconBg: "#E6DEDD",
-    date: "March2024 - june 2022",
+    date: "january ch2024 - April 2024",
     points: [
-      "Developed an absence management application using Laravel, Bootstrap, MySQL.",
-      "Features include student management, absence recording, and reporting.",
+      "Development of a web application for student absence management using the Laravel framework:",
+      "Management of student absences: addition, modification, and deletion",
+      "Monitoring of absence trends",
+      "Error validation, generation of detailed reports by group or time period"
     ],
   },
 
