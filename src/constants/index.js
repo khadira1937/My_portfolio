@@ -141,7 +141,7 @@ const experiences = [
     company_name: "ISTA Nador",
     icon: ofppt,
     iconBg: "#E6DEDD",
-    date: "january ch2024 - April 2024",
+    date: "january 2024 - April 2024",
     points: [
       "Development of a web application for student absence management using the Laravel framework:",
       "Management of student absences: addition, modification, and deletion",
